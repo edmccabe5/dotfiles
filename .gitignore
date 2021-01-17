@@ -5,3 +5,4 @@
 .bash_history
 /.pki
 /.gnupg
+.git-credentials
