@@ -6,3 +6,5 @@
 /.pki
 /.gnupg
 .git-credentials
+.viminfo
+

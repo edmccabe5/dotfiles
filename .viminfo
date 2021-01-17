@@ -18,13 +18,13 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1610851905,,"wq"
+|2,0,1610852011,,"wq"
+:q
+|2,0,1610851997,,"q"
 :q!
 |2,0,1610848212,,"q!"
 :ls | grep Brave
 |2,0,1610848202,,"ls | grep Brave"
-:q
-|2,0,1610837569,,"q"
 :w
 |2,0,1610836076,,"w"
 :set nu
@@ -115,36 +115,60 @@ $
 |3,0,36,0,1,0,1610835900,"`"
 
 # File marks:
-'0  8  4  ~/.gitignore
-|4,48,8,4,1610851905,"~/.gitignore"
-'1  8  14  ~/.gitignore
-|4,49,8,14,1610851897,"~/.gitignore"
-'2  5  23  ~/.gitignore
-|4,50,5,23,1610848637,"~/.gitignore"
-'3  5  23  ~/.gitignore
-|4,51,5,23,1610848637,"~/.gitignore"
-'4  5  23  ~/.gitignore
-|4,52,5,23,1610848637,"~/.gitignore"
-'5  5  23  ~/.gitignore
-|4,53,5,23,1610848637,"~/.gitignore"
-'6  1  2  ~/.gitignore
-|4,54,1,2,1610848594,"~/.gitignore"
-'7  1  2  ~/.gitignore
-|4,55,1,2,1610848594,"~/.gitignore"
-'8  1  2  ~/.gitignore
-|4,56,1,2,1610848594,"~/.gitignore"
-'9  1  2  ~/.gitignore
-|4,57,1,2,1610848594,"~/.gitignore"
+'0  10  0  ~/.gitignore
+|4,48,10,0,1610852011,"~/.gitignore"
+'1  77  0  ~/.viminfo
+|4,49,77,0,1610851997,"~/.viminfo"
+'2  8  4  ~/.gitignore
+|4,50,8,4,1610851905,"~/.gitignore"
+'3  8  4  ~/.gitignore
+|4,51,8,4,1610851905,"~/.gitignore"
+'4  8  14  ~/.gitignore
+|4,52,8,14,1610851897,"~/.gitignore"
+'5  8  14  ~/.gitignore
+|4,53,8,14,1610851897,"~/.gitignore"
+'6  5  23  ~/.gitignore
+|4,54,5,23,1610848637,"~/.gitignore"
+'7  5  23  ~/.gitignore
+|4,55,5,23,1610848637,"~/.gitignore"
+'8  5  23  ~/.gitignore
+|4,56,5,23,1610848637,"~/.gitignore"
+'9  5  23  ~/.gitignore
+|4,57,5,23,1610848637,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  10  0  ~/.gitignore
+|4,39,10,0,1610852011,"~/.gitignore"
+-'  8  4  ~/.gitignore
+|4,39,8,4,1610852004,"~/.gitignore"
+-'  77  0  ~/.viminfo
+|4,39,77,0,1610851997,"~/.viminfo"
+-'  77  0  ~/.viminfo
+|4,39,77,0,1610851997,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1610851990,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1610851990,"~/.viminfo"
 -'  8  4  ~/.gitignore
 |4,39,8,4,1610851905,"~/.gitignore"
+-'  8  4  ~/.gitignore
+|4,39,8,4,1610851905,"~/.gitignore"
+-'  8  14  ~/.gitignore
+|4,39,8,14,1610851897,"~/.gitignore"
 -'  8  14  ~/.gitignore
 |4,39,8,14,1610851897,"~/.gitignore"
 -'  5  12  ~/.gitignore
 |4,39,5,12,1610851886,"~/.gitignore"
 -'  5  12  ~/.gitignore
 |4,39,5,12,1610851886,"~/.gitignore"
+-'  5  12  ~/.gitignore
+|4,39,5,12,1610851886,"~/.gitignore"
+-'  5  12  ~/.gitignore
+|4,39,5,12,1610851886,"~/.gitignore"
+-'  5  12  ~/.gitignore
+|4,39,5,12,1610851886,"~/.gitignore"
+-'  5  23  ~/.gitignore
+|4,39,5,23,1610848637,"~/.gitignore"
 -'  5  23  ~/.gitignore
 |4,39,5,23,1610848637,"~/.gitignore"
 -'  1  2  ~/.gitignore
@@ -153,6 +177,16 @@ $
 |4,39,1,2,1610848603,"~/.gitignore"
 -'  1  2  ~/.gitignore
 |4,39,1,2,1610848603,"~/.gitignore"
+-'  1  2  ~/.gitignore
+|4,39,1,2,1610848603,"~/.gitignore"
+-'  1  2  ~/.gitignore
+|4,39,1,2,1610848603,"~/.gitignore"
+-'  1  2  ~/.gitignore
+|4,39,1,2,1610848603,"~/.gitignore"
+-'  1  2  ~/.gitignore
+|4,39,1,2,1610848603,"~/.gitignore"
+-'  1  2  ~/.gitignore
+|4,39,1,2,1610848594,"~/.gitignore"
 -'  1  2  ~/.gitignore
 |4,39,1,2,1610848594,"~/.gitignore"
 -'  1  14  ~/.config/.gitignore
@@ -187,6 +221,102 @@ $
 |4,39,1,14,1610848228,"~/.config/.gitignore"
 -'  1  14  ~/.config/.gitignore
 |4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
+-'  1  14  ~/.config/.gitignore
+|4,39,1,14,1610848228,"~/.config/.gitignore"
 -'  1  4  ~/.config/.gitignore
 |4,39,1,4,1610848212,"~/.config/.gitignore"
 -'  1  4  ~/.config/.gitignore
@@ -207,147 +337,22 @@ $
 |4,39,1,4,1610848212,"~/.config/.gitignore"
 -'  1  4  ~/.config/.gitignore
 |4,39,1,4,1610848212,"~/.config/.gitignore"
--'  1  4  ~/.config/.gitignore
-|4,39,1,4,1610848212,"~/.config/.gitignore"
--'  1  4  ~/.config/.gitignore
-|4,39,1,4,1610848212,"~/.config/.gitignore"
--'  1  4  ~/.config/.gitignore
-|4,39,1,4,1610848212,"~/.config/.gitignore"
--'  1  4  ~/.config/.gitignore
-|4,39,1,4,1610848212,"~/.config/.gitignore"
--'  1  4  ~/.config/.gitignore
-|4,39,1,4,1610848212,"~/.config/.gitignore"
--'  1  4  ~/.config/.gitignore
-|4,39,1,4,1610848212,"~/.config/.gitignore"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
--'  7  11  ~/.config/alacritty/alacritty.yml
-|4,39,7,11,1610847910,"~/.config/alacritty/alacritty.yml"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1610851904	0
-	"	8	4
-	^	8	5
-	.	8	4
+	*	1610852009	0
+	"	10	0
+	^	10	0
+	.	9	8
 	+	1	2
 	+	5	23
 	+	8	4
+	+	9	8
+
+> ~/.viminfo
+	*	1610851996	0
+	"	77	0
 
 > ~/.config/.gitignore
 	*	1610848227	0
