@@ -1,5 +1,5 @@
 font:
-  size: 12
+  size: 8
 
   normal:
     family: Droid Sans Mono Slashed for Powerline
@@ -16,3 +16,11 @@ font:
     family: Droid Sans Mono Slashed for Powerline
 
     style: Italic
+
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#bc5653'
+  
+  bright:
+    red: '#ff0000'

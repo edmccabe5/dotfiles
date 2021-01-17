@@ -4,3 +4,5 @@ powerline-setup
 function fish_mode_prompt
 	# noop
 end
+alias neofetch='neofetch --colors 1 1 1 1 1 1 --ascii_colors 9 9 9 9 9 9 --color_blocks off'
+alias tty-clock='tty-clock -C 1'

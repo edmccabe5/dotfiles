@@ -7,4 +7,6 @@
 /.gnupg
 .git-credentials
 .viminfo
-
+/.vscode-oss
+.lesshst
+.Xauthority
