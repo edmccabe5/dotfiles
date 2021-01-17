@@ -1,0 +1,7 @@
+# non-dot files
+/[^.]*
+!/bin
+/.local
+.bash_history
+/.pki
+/.gnupg
